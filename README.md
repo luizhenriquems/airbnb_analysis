@@ -24,5 +24,5 @@ To answer these questions the dataset used was Listings. It contains full descri
 
 ## Results
 
-You can find the main insights in this post here
+You can find the main insights in this post [here] (https://medium.com/@luizhenriquems/airbnb-seattle-analysis-a-quick-overview-1390b8647910)
 
